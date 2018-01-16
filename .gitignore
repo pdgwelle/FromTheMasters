@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# bulky assets
+database_scripts/assets/*
+_old/*
